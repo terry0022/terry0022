@@ -45,9 +45,14 @@
 <center>
   <table>
     <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry0022&count_private=true&show_icons=true&theme=cobalt"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry0022&layout=compact&theme=cobalt" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry0022&count_private=true&show_icons=true&theme=nord"/></td>
+      <td>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry0022&count_private=true&layout=compact&theme=nord"/></td>
     </tr>   
+    <!-- <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry0022&repo=Covid19Stats&count_private=true&layout=compact&theme=nord"/></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&count_private=true&layout=compact&theme=nord"/></td>
+    </tr> -->
   </table>
 </center>
 
