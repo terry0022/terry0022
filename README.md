@@ -1,9 +1,9 @@
 ### Hi there, I'm Terry0022 👋 
 
-![](https://badges.pufler.dev/visits/terry0022/terry0022)
-![](https://badges.pufler.dev/years/terry0022)
-![](https://badges.pufler.dev/repos/terry0022)
-![](https://badges.pufler.dev/commits/monthly/terry0022)
+![](https://badges.pufler.dev/visits/terry0022/terry0022?color=blue&style=plastic&logo=Android)
+![](https://badges.pufler.dev/years/terry0022?color=red&style=plastic&logo=CodeIgniter)
+![](https://badges.pufler.dev/repos/terry0022?color=orange&style=plastic&logo=Github)
+![](https://badges.pufler.dev/commits/weekly/terry0022?color=9cf&style=plastic&logo=counter-strike)
 
 <!-- **terry0022/terry0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### 🙋🏻‍♂️I’m a mobile developer, father, musician and writer.
@@ -47,13 +47,13 @@
   <table>
     <tr>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry0022&count_private=true&show_icons=true&theme=nord"/></td>
-      <td>
+      <!--<td>
         <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry0022&count_private=true&layout=compact&theme=nord"/></td>
     </tr>   
-    <!-- <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry0022&repo=Covid19Stats&count_private=true&layout=compact&theme=nord"/></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&count_private=true&layout=compact&theme=nord"/></td>
-    </tr> -->
+    <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry0022&repo=terry0022&count_private=true&layout=compact&theme=nord"/></td> -->
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&count_private=true&layout=compact&theme=nord"/></td>
+    </tr>
   </table>
 </center>
 
