@@ -6,7 +6,7 @@
 ![](https://badges.pufler.dev/commits/monthly/terry0022)
 
 <!-- **terry0022/terry0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### 🙋🏻‍♂️I’m a mobile developer, musician and writer.
+### 🙋🏻‍♂️I’m a mobile developer, father, musician and writer.
 - :mortar_board: Computer Systems Engineer (Instituto Tecnologico de Ciudad Valles TecValles)
 - Fan of technology, music, soccer and movies
 - 👨🏻‍💻 Backend developer since version 2009
