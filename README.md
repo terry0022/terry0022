@@ -13,9 +13,9 @@
 - :robot: Android developer since version 2.3 (2011)
 - 📃 [Associate Android Developer (Kotlin)][kotlin_credential]
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-h4kl01ual.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921)
+<!-- ### Spotify Playing 🎧
+[![Spotify](https://novatorem-h4kl01ual.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921) 
+-->
 
 
 ### Connect with me 
