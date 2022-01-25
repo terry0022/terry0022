@@ -1,3 +1,5 @@
+# MOVING TO [Terry1921][new_git]
+
 ### Hi there, I'm Terry0022 👋 
 
 ![](https://badges.pufler.dev/visits/terry0022/terry0022?color=blue&style=plastic&logo=Android)
@@ -57,6 +59,7 @@
   </table>
 </center>
 
+[new_git]: https://github.com/terry1921
 [kotlin_credential]: https://www.credential.net/0f5794dc-2b1f-4c5a-9f78-5ad416529252
 [linkedin]: https://www.linkedin.com/in/enrique0022/
 [twitter]: https://twitter.com/Terry_rockstar
